@@ -45,7 +45,7 @@ function chillHop(){
             audio:'https://stream.chillhop.com/mp3/55235',
             color:['#FD740F','#CAA38A'],
             id: uuidv4(),
-            active: true,
+            active: false,
         },
         {
             name: "Fall Out",
