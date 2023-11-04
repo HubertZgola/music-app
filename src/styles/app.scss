@@ -3,9 +3,15 @@
     padding: 0;
     box-sizing: border-box;
 }
+body{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 200;
+}
 h1,h2,h3{
+    font-weight: 700;
     color:rgb(54, 54, 54);
 }
 
 @import './song';
 @import './player';
+@import './library';
