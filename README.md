@@ -1,6 +1,6 @@
 ![image](https://github.com/HubertZgola/music-app/assets/99662754/5d815490-34cb-4691-963e-9cc6aebf4452)
 
-#GothicMusic
+# GothicMusic
 
 It is a music player related to my favorite game "Gothic" written using React, enabling basic activities available in this type of applications.
 
