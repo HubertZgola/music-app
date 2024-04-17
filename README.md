@@ -1,3 +1,6 @@
+![image](https://github.com/HubertZgola/music-app/assets/99662754/5d815490-34cb-4691-963e-9cc6aebf4452)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
