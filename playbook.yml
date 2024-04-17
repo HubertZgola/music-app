@@ -1,0 +1,20 @@
+---
+- name: Deploy Music-App
+  hosts: localhost
+  become: yes
+  tasks:
+    - name: Create Directory
+      file:
+        path: /gothicMusicApp
+        state: directory
+
+    - name: Clone Repository
+      git:
+        repo: https://github.com/HubertZgola/music-app
+        dest: /gothicMusicApp
+
+    - name: Building Docker Image
+      command: docker build -t gothic_music_app:v1 /gothicMusicApp
+
+    - name: Building Docker Image
+      command: docker run -d --name gothic-music-zgola -p 9898:9898 -e PORT=9898 gothic_music_app
