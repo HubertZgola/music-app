@@ -1,10 +1,12 @@
-![image](https://github.com/HubertZgola/music-app/assets/99662754/3a905b41-be24-4299-b71c-2013a1d6db13)
-
-![image](https://github.com/HubertZgola/music-app/assets/99662754/5d815490-34cb-4691-963e-9cc6aebf4452)
+Link to the website: https://gothicmusic.azurewebsites.net/
 
 # GothicMusic
 
 It is a music player related to my favorite game "Gothic" written using React, enabling basic activities available in this type of applications.
+
+![image](https://github.com/HubertZgola/music-app/assets/99662754/3a905b41-be24-4299-b71c-2013a1d6db13)
+
+![image](https://github.com/HubertZgola/music-app/assets/99662754/5d815490-34cb-4691-963e-9cc6aebf4452)
 
 ## How to run the application on your local machine
 
