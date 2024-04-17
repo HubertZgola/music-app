@@ -17,7 +17,7 @@ Make sure you have Docker and Ansible installed on your system. If not, follow t
 
 ### 2. Run the Ansible Playbook
 
-Go to the nukepol application directory.
+Go to the music-app application directory.
 Run the Ansible playbook located in the repository by executing CLI command:
 ansible-playbook playbook.yml
 
